@@ -1,0 +1,5 @@
+KMeans_Cluster,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Persona,Marketing_Action
+0,1377,185.29,14.97,298.59,Dormant Customers,Use targeted reactivation campaigns.
+1,872,19.89,38.74,612.06,Regular Customers,Encourage repeat purchases with recommendations.
+2,868,12.96,282.89,7042.57,Loyal VIP Customers,Offer loyalty rewards and exclusive benefits.
+3,1221,96.38,80.21,1518.09,At-Risk Valuable Customers,Send personalized win-back offers.
